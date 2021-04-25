@@ -2,8 +2,8 @@
 
 ## Instalation
 
-1. `git clone <git repo>`
-2. `cd <path folder>`
+1. `git clone https://github.com/fahmisalman/Python-FontArt.git`
+2. `cd Python-FontArt`
 3. `pip install -r requirements.txt`
 
 ## How to use
