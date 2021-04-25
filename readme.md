@@ -59,4 +59,4 @@
     ..:::::..:::...::...:::........:::......::::.......:::..:::::..::........::
     ```
 
-You can see the font list [here](http://www.figlet.org/fontdb.cgi)
+You can see the font list [here](http://www.figlet.org/fontdb.cgi).
