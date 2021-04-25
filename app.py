@@ -15,4 +15,5 @@ if args.font:
     result = pyfiglet.figlet_format(text, font=args.font)
 else:
     result = pyfiglet.figlet_format(text)
+
 print(result)
